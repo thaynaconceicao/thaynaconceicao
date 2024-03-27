@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thaynaconceicao
-- 👀 I’m interested in programming end systems development
+- 👀 I’m interested in programming and systems development
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on information systems projects
 - 📫 How to reach me Email: thaynaconceicao25@gmail.com or Phone: (+55)47999948147
